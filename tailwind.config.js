@@ -40,7 +40,7 @@ export default {
         '128': '32rem',
       },
       borderRadius: {
-        'xl': '1rem',
+        'xl': '0.75rem',
         '2xl': '1rem',
       },
       boxShadow: {
